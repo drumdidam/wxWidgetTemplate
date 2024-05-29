@@ -1,0 +1,3 @@
+/home/drumdidam/dev/USB/build/CMakeFiles/wxTest.dir
+/home/drumdidam/dev/USB/build/CMakeFiles/edit_cache.dir
+/home/drumdidam/dev/USB/build/CMakeFiles/rebuild_cache.dir

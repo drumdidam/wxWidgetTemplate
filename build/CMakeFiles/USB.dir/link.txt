@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/USB.dir/main.cpp.o -o USB 

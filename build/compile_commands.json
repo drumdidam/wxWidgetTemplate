@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/drumdidam/dev/USB/build",
+  "command": "/usr/bin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -isystem /usr/local/lib/wx/include/gtk3-unicode-3.3 -isystem /usr/local/include/wx-3.3  -pthread -o CMakeFiles/wxTest.dir/main.cpp.o -c /home/drumdidam/dev/USB/src/main.cpp",
+  "file": "/home/drumdidam/dev/USB/src/main.cpp",
+  "output": "CMakeFiles/wxTest.dir/main.cpp.o"
+}
+]
